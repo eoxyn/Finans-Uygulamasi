@@ -90,6 +90,7 @@ Bu listelerdeki her eleman `finans_modeli.py` dosyasindaki `Islem` sinifindan ol
 
 ### Canlı Döviz Kurları
 USD/TRY, EUR/TRY ve GBP/TRY kurları internet üzerinden otomatik olarak alınır. Kurlar uygulama açıkken belirli aralıklarla yenilenir.
+
 <img width="425" height="64" alt="02_canli_doviz_kurlari" src="https://github.com/user-attachments/assets/01038f96-430e-4805-8fac-7f8f4fde9cb9" />
 
 ### Finansal Analiz
