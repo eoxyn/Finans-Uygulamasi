@@ -2,7 +2,6 @@
 
 **Ogrenci:** Mehmet Kaya  
 **Ogrenci No:** 24903057  
-**Github Repo Linki:** https://github.com/eoxyn/Mehmet_Kaya_24903057_YBS
 
 ## Proje Amaci
 
@@ -143,5 +142,3 @@ Ornek proje ciktilarini yeniden uretmek icin:
 ```bash
 python cikti_uret.py
 ```
-
-### Github Repo Linki: https://github.com/eoxyn/Mehmet_Kaya_24903057_YBS
