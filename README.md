@@ -9,6 +9,7 @@ Bu proje; kullanicinin gelir ve gider kayitlarini ekleyebildigi, kayitlari CSV d
 
 Uygulama hem modern Tkinter GUI arayuzu hem de odevde istenen 7 maddelik konsol menusu ile calisir. Projenin tek ana giris noktasi `main.py` dosyasidir.
 
+### Projenin exe uzantısı için **Releases** kısmına gözatabilirsiniz.
 
 Projede uygulamayi baslatan tek `main` fonksiyonu `main.py` icindedir.
 
