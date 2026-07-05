@@ -1,8 +1,5 @@
 # Kisisel Finans ve Harcama Takip Sistemi
 
-**Ogrenci:** Mehmet Kaya  
-**Ogrenci No:** 24903057  
-
 ## Proje Amaci
 
 Bu proje; kullanicinin gelir ve gider kayitlarini ekleyebildigi, kayitlari CSV dosyasinda saklayabildigi, Pandas ve NumPy ile finansal analiz yapabildigi, Matplotlib/Seaborn ile grafik uretebildigi ve canli doviz kurlarini takip edebildigi moduler bir kisisel finans takip sistemidir. GUI şeklinde tasarlanmasının nedeni şahsi kullanım amacımdır.
